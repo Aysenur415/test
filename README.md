@@ -1,2 +1,4 @@
-# algoritma dersi ##1.Ders (Çalışma Ortamı) ##2.Ders (GitHub)
+# algoritma dersi
+## 1.Ders (Çalışma Ortamı) 
+## 2.Ders (GitHub)
 
